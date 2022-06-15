@@ -1,0 +1,11 @@
+:root {
+    --main-text-color: #757575;
+    --title-text-color: #212121;
+    --white-text-color: #FFFFFF;
+    --footer-contacts-text-color: rgba(255, 255, 255, 0.6);
+    --accent-color: #2196F3;
+    --main-background-color: #E5E5E5;
+    --header-background-color: #FFFFFF;
+    --gray-background-color: #F5F4FA;
+    --footer-background-color: #2F303A;
+}
