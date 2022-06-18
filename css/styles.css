@@ -147,7 +147,7 @@ body {
 }
 
 /* PORTFOLIO.HTML */
-/*section-portfolio*/
+/* Section Portfolio*/
 
 .portfolio-btn {
     background-color: var(--gray-background-color);
@@ -170,6 +170,8 @@ body {
 }
 
 .section-portfolio .subtitle {
+    color: var(--primary-text-color);
+
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
